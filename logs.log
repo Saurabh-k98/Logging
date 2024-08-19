@@ -1,0 +1,5 @@
+2024-08-19 01:55:50 DEBUG This is a DEBUG message
+2024-08-19 01:55:50 INFO This is an INFO message
+2024-08-19 01:55:50 WARNING This is a WARNING message
+2024-08-19 01:55:50 ERROR This is an ERROR message
+2024-08-19 01:55:50 CRITICAL This is a CRITICAL message
